@@ -61,28 +61,35 @@ mern-mysql-auth-crud/
 
 ## Screenshots
 ### Login Page
-![Login](C:/Users/91797/Documents/New project 2/screenshots/Login.jpeg)
+![Login](https://github.com/user-attachments/assets/b348884d-66f7-4ad1-9bac-77613d4e2b10)
+
 
 ### Register Page
-![Register](C:/Users/91797/Documents/New project 2/screenshots/Register.jpeg)
+![Register](https://github.com/user-attachments/assets/9c880f52-3ed2-43ad-ba46-57be6f34a244)
+
 
 ### Forgot Password Page
-![Forgot Password](C:/Users/91797/Documents/New project 2/screenshots/Forgot-Password.jpeg)
+![Forgot-Password](https://github.com/user-attachments/assets/5cb2f950-c84b-4c0b-a081-3703a906a5d1)
+
 
 ### Reset Password Page
-![Reset Password](C:/Users/91797/Documents/New project 2/screenshots/Reset-Password.jpeg)
+![Reset-Password](https://github.com/user-attachments/assets/08d935bd-3366-431e-bb8f-6923fce95c9a)
+
 
 ### Dashboard
-![Dashboard](C:/Users/91797/Documents/New project 2/screenshots/Dashboard.jpeg)
+![Dashboard](https://github.com/user-attachments/assets/430d4435-bb1c-4687-9269-1aa12e8f86f4)
+
 
 ### MySQL Items Table
-![MySQL Items](C:/Users/91797/Documents/New project 2/screenshots/mysql-items.jpeg)
+![mysql-items](https://github.com/user-attachments/assets/298844d8-0d10-42c0-9a66-5460277f5409)
+
 
 ### MySQL Users Table
-![MySQL Users](C:/Users/91797/Documents/New project 2/screenshots/mysql-users.jpeg)
+![mysql-users](https://github.com/user-attachments/assets/1041469c-e8b6-48e3-a29c-9a1041c31e3c)
+
 
 ## Author
-Anagha Acharya
+Anagha Acharya H R
 
 ## Conclusion
 This project demonstrates complete MERN-style full-stack development with MySQL integration, secure authentication, and dashboard CRUD functionality.  
